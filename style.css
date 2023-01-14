@@ -3,12 +3,11 @@
   margin: auto;
   padding: 10px;
   background-color: yellow;
-  /* color: white; */
 }
 .changeBtn {
 }
 
 .otherColors{
-  background-color: aqua;
-  color: green;
+  background-color: green;
+  color: pink;
 }
